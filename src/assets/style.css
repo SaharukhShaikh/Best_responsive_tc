@@ -1,0 +1,196 @@
+/****
+first pag
+*****/
+body{
+    font-family: Roboto;
+}
+h2.heading {
+    text-align: center;
+    font-size: 2.2vw;
+}
+h3 {
+    font-size: 1.8vw;
+
+}
+p {
+    font-weight: 100;
+    font-size: 1.5vw;
+}
+.product.name {
+    display: flex;
+    justify-content: space-between;
+}
+
+input.web {
+    padding: 7% 25% 7% 7%;
+    width: 16vw;
+}
+button.but {
+    width: 5vw;
+    padding: 4%;
+}
+p.p {
+    
+    font-size: 1.4vw;
+    /* padding-left: 10%; */
+}
+.pricing {
+    display: flex;
+    gap: 47%;
+}
+
+.price {
+    display: flex;
+    justify-content: space-between;
+    /* padding-left: 10%;
+    padding-right: 5%; */
+}
+.inner {
+    display: flex;
+    gap: 2%;
+    width: 28vw;
+}
+
+.footer {
+    float: right;
+    width: 31vw;
+}
+
+/* .billing {
+    padding-left: 10%;
+    padding-top: 2%;
+} */
+
+input.webe {
+    padding: 7% 25% 7% 7%;
+    width: 20vw;
+}
+
+button.butt {
+    background-color: lightskyblue;
+    color: blue;
+    width: 10vw;
+    padding: 4%;
+    font-size: 1.5vw;
+}
+.buttons {
+    display: flex;
+}
+input.webx {
+    width: 13vw;
+    padding: 3%;
+}
+select {
+    padding: 6%;
+    width: 13vw;
+}
+
+input.ps {
+    padding: 7% 25% 7% 7%;
+    width: 20vw;
+}
+
+input.webb {
+    width: 23vw;
+    padding: 1.7%;
+}
+
+button.buts {
+    width: 14w;
+    padding: 1%;
+}
+
+button.\31 {
+    width: 13vw;
+    padding: 3%;
+}
+
+button.\32 {
+    width: 13vw;
+    padding: 3%;
+}
+
+button.buttt {
+    width: 10vw;
+    padding: 7%;
+    font-size: 1.5vw;
+}
+
+/******
+second page
+****/
+img.loading {
+    width: 6%;
+    background-color: lightgray;
+    border-radius: 15px;
+    padding: 1%;
+}
+/****
+thrid page
+****/
+.page3 {
+    display: flex;
+    gap: 3vw;
+}
+img#orion {
+    background-color: #E3EAF9;
+    padding: 2%;
+    border-radius: 3px;
+}
+
+/****
+fifth page
+****/
+.lifetime {
+    display: flex;
+    align-items: center;
+}
+
+img.option {
+    width: 2vw;
+}
+img.arrow-down {
+    width: 2vw;
+}
+
+.lifetime {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* padding-left: 10%; */
+}
+
+img.optione {
+    width: 2vw;
+}
+img.arrow-up {
+    width: 2vw;
+}
+
+.pricings {
+    display: flex;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.abc {
+    display: flex;
+    width: 7vw;
+    justify-content: space-between;
+}
+
+section.seconde {
+    width: 90vw;
+    margin: 0 auto;
+}
+
+.optionss {
+    display: flex;
+    width: 7vw;
+    justify-content: space-between;
+}
+.plans{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
